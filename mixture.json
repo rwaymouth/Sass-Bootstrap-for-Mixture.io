@@ -3,7 +3,7 @@
   "domain": null,
   "lintScripts": false,
   "modelSource": null,
-  "preprocessorLocations": "assets",
+  "preprocessorLocations": "assets,app/css,app/js",
   "preprocessorScriptOutput": "app/js",
   "preprocessorStyleOutput": "app/css",
   "projectDescription": "Sass-Bootstrap based start",
